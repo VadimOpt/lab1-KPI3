@@ -1,3 +1,3 @@
-module github.com/VadimOpt/lab1-KPI3
+module server
 
 go 1.22rc2
