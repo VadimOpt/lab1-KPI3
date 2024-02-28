@@ -5,7 +5,7 @@ _студенти 2-го курсу, групи ІМ-24:_
 
 <span padding-right:5em></span> **Вадим Дідур** [Пошта: vadimdidur20@gmail.com, [Телеграм](https://t.me/Vadimddr)]
 
-<span padding-right:5em></span> **Андрій Тарасюк** [Пошта: andriytara283@gmail.com, [Телеграм](https://t.me/Andrew283)]
+<span padding-right:5em></span> **Андрiй Тарасюк** [Пошта: andriytara283@gmail.com, [Телеграм](https://t.me/Andrew283)]
 
 <span padding-right:5em></span> **Ім'я Прізвище** [Пошта: example@email.com, [Телеграм](https://t.me/example_tg_nickname)]
 
