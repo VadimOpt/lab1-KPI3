@@ -9,8 +9,6 @@ _студенти 2-го курсу, групи ІМ-24:_
 
 <span padding-right:5em></span> **Ім'я Прізвище** [Пошта: example@email.com, [Телеграм](https://t.me/example_tg_nickname)]
 
-<span padding-right:5em></span> **Ім'я Прізвище** [Пошта: example@email.com, [Телеграм](https://t.me/example_tg_nickname)]
-
 **Керівник**
 
 _асистент кафедри ОТ ФІОТ,_<span padding-right:5em></span> **Роман МАЗУР**
