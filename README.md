@@ -7,7 +7,7 @@ _студенти 2-го курсу, групи ІМ-24:_
 
 <span padding-right:5em></span> **Андрiй Тарасюк** [Пошта: andriytara283@gmail.com, [Телеграм](https://t.me/Andrew283)]
 
-<span padding-right:5em></span> **Ім'я Прізвище** [Пошта: example@email.com, [Телеграм](https://t.me/example_tg_nickname)]
+<span padding-right:5em></span> **Анастасія Голубенко** [Пошта: golubenkoanastasya@gmail.com, [Телеграм](https://t.me/anasteishat)]
 
 **Керівник**
 
