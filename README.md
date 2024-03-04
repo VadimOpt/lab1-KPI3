@@ -9,9 +9,6 @@ _студенти 2-го курсу, групи ІМ-24:_
 
 <span padding-right:5em></span> **Анастасія Голубенко** [Пошта: golubenkoanastasya@gmail.com, [Телеграм](https://t.me/anasteishat)]
 
-<!-- 3. test line -->
-<!-- 4. test line -->
-
 **Керівник**
 
 _асистент кафедри ОТ ФІОТ,_<span padding-right:5em></span> **Роман МАЗУР**
